@@ -9,3 +9,4 @@ Uh oh,,,
 
 
 git LFS now working.
+git bisect also working.
